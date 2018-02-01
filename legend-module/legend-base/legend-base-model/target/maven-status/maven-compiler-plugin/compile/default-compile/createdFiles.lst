@@ -1,0 +1,16 @@
+com\legend\base\model\consts\exception\message\BaseExceptionMessage.class
+com\legend\base\model\pojo\BasePojo.class
+com\legend\base\model\json\result\AjaxError.class
+com\legend\base\utils\HttpSessionUtils.class
+com\legend\base\model\pojo\dto\BaseDTO.class
+com\legend\base\utils\PropertyUtils.class
+com\legend\base\model\json\AjaxResult.class
+com\legend\base\model\consts\result\message\BaseResultMessage.class
+com\legend\base\model\pojo\vo\BaseVO.class
+com\legend\base\model\pojo\bo\BaseBO.class
+com\legend\base\model\consts\exception\code\BaseExceptionCode.class
+com\legend\base\model\json\result\AjaxSuccess.class
+com\legend\base\utils\CookieUtils.class
+com\legend\base\model\exception\BaseException.class
+com\legend\base\model\pojo\entity\BaseEntity.class
+com\legend\base\model\consts\result\code\BaseResultCode.class
