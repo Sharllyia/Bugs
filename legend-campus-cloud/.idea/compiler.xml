@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="legend-campus-cloud-facade" />
         <module name="legend-campus-cloud-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="legend-campus-cloud" target="1.5" />
-      <module name="legend-campus-cloud-web" target="1.8" />
+      <module name="legend-campus-cloud-facade" target="1.5" />
+      <module name="legend-campus-cloud-web" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
