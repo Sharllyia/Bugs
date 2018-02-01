@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/legend-base/legend-base.iml" filepath="$PROJECT_DIR$/legend-base/legend-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legend-base/legend-base-dao/legend-base-dao.iml" filepath="$PROJECT_DIR$/legend-base/legend-base-dao/legend-base-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legend-base/legend-base-model/legend-base-model.iml" filepath="$PROJECT_DIR$/legend-base/legend-base-model/legend-base-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legend-base/legend-base-service/legend-base-service.iml" filepath="$PROJECT_DIR$/legend-base/legend-base-service/legend-base-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legend-base/legend-base-web/legend-base-web.iml" filepath="$PROJECT_DIR$/legend-base/legend-base-web/legend-base-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legend-campus/legend-campus.iml" filepath="$PROJECT_DIR$/legend-campus/legend-campus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legend-campus/legend-campus-dao/legend-campus-dao.iml" filepath="$PROJECT_DIR$/legend-campus/legend-campus-dao/legend-campus-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legend-campus/legend-campus-model/legend-campus-model.iml" filepath="$PROJECT_DIR$/legend-campus/legend-campus-model/legend-campus-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legend-campus/legend-campus-service/legend-campus-service.iml" filepath="$PROJECT_DIR$/legend-campus/legend-campus-service/legend-campus-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legend-module.iml" filepath="$PROJECT_DIR$/legend-module.iml" />
+    </modules>
+  </component>
+</project>

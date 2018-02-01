@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.legend</groupId>
+        <artifactId>legend-module</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>legend-campus</artifactId>
+    <packaging>pom</packaging>
+
+    <name>legend-campus</name>
+    <description>legend-campus root</description>
+    <modules>
+        <module>legend-campus-dao</module>
+        <module>legend-campus-model</module>
+        <module>legend-campus-service</module>
+    </modules>
+
+
+</project>
