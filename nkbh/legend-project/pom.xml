@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>legend-project-facade</module>
+        <module>legend-project-web</module>
     </modules>
     <packaging>pom</packaging>
 
