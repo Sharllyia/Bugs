@@ -1,0 +1,7 @@
+com\legend\web\controller\manager\ManagerBaseController.class
+com\legend\web\controller\website\WebsiteBaseController.class
+com\legend\web\model\vo\UserVO.class
+com\legend\web\aspect\LogAspect.class
+com\legend\web\controller\manager\admin\AdminUserController.class
+com\legend\web\controller\BaseController.class
+com\legend\web\model\vo\admin\AdminUserVO.class

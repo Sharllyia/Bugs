@@ -1,0 +1,15 @@
+com\legend\dao\model\pojo\vo\BaseVO.class
+com\legend\dao\model\json\result\AjaxError.class
+com\legend\utils\CookieUtils.class
+com\legend\dao\model\exception\BaseException.class
+com\legend\dao\model\pojo\BasePojo.class
+com\legend\dao\model\consts\result\code\BaseResultCode.class
+com\legend\dao\model\json\AjaxResult.class
+com\legend\dao\model\json\result\AjaxSuccess.class
+com\legend\dao\model\consts\exception\message\BaseExceptionMessage.class
+com\legend\dao\model\pojo\dto\BaseDTO.class
+com\legend\dao\model\consts\result\message\BaseResultMessage.class
+com\legend\utils\PropertyUtils.class
+com\legend\dao\model\pojo\entity\BaseEntity.class
+com\legend\dao\model\consts\exception\code\BaseExceptionCode.class
+com\legend\utils\HttpSessionUtils.class
