@@ -81,6 +81,9 @@
             <property name="useColumnIndexes" value="${table.property.useColumnIndexes}"/>
             <property name="useCompoundPropertyNames" value="${table.property.useCompoundPropertyNames}"/>
             <ignoreColumn column="id"/>
+            <ignoreColumn column="create_time"/>
+            <ignoreColumn column="update_time"/>
+            <ignoreColumn column="is_deleted"/>
             <!--<generatedKey column="id" sqlStatement="MySql" identity="true" />-->
         </table>
     </context>
