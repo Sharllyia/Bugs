@@ -1,6 +1,6 @@
 package com.legend.base.web.controller.website;
 
-import com.legend.base.vo.UserVO;
+import com.legend.base.vo.BaseUserVO;
 import com.legend.base.web.controller.BaseController;
 import org.springframework.stereotype.Controller;
 
@@ -13,7 +13,7 @@ public class WebsiteBaseController extends BaseController {
 
 
     @Override
-    protected void setCurrentUser(UserVO user) {
+    protected void setCurrentUser(BaseUserVO user) {
 
     }
 

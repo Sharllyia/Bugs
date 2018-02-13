@@ -1,19 +1,17 @@
 package com.legend.base.model.contant.code.result.base;
 
 
-import org.springframework.util.StringUtils;
+import com.legend.base.model.contant.code.result.BaseAjaxCode;
 
 /**
  * @author Administrator
  * @date 2018/2/2
  */
-public class BaseUserResultCode {
+public class BaseUserResultCode extends BaseAjaxCode {
 
-    private static final String IS_BLANK = "为空";
+    public static final int USERNAME_IS_BLANK = 10100;
 
-    private static final String IS_NOT_BLANK = "不为空";
+    public static final int PASSWORD_IS_BLANK = 10101;
 
-    public static String isBlank(String field){
-        return StringUtils.;
-    }
+    public static final int PASSWORD_LENGTH_MIN = 10102;
 }

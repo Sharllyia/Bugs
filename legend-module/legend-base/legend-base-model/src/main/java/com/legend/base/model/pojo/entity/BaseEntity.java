@@ -1,20 +1,20 @@
 package com.legend.base.model.pojo.entity;
 
 import com.legend.base.model.pojo.BasePojo;
-import com.legend.base.model.pojo.vo.BaseVO;
-import org.springframework.beans.BeanUtils;
+import com.sun.istack.internal.NotNull;
 
+import javax.persistence.Column;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Date;
 
 /**
  * @author Administrator
  * @date 2018/1/9
  */
-public abstract class BaseEntity<T extends BaseEntity, TVO extends BaseVO> extends BasePojo<T> {
+public abstract class BaseEntity<T extends BaseEntity> extends BasePojo<T> {
+    private static final long serialVersionUID = 1L;
 
     /**
      * 主键id
@@ -23,54 +23,98 @@ public abstract class BaseEntity<T extends BaseEntity, TVO extends BaseVO> exten
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
 
+    /**
+     * 创建时间
+     */
+    @Column(name = "create_time")
+    private Date createTime;
+
+    /**
+     * 更新时间
+     */
+    @Column(name = "update_time")
+    private Date updateTime;
+
+    /**
+     * 是否删除
+     */
+    @Column(name = "is_deleted")
+    private Boolean isDeleted;
+
+    /**
+     * 获取主键id
+     *
+     * @return 主键id
+     */
     public Integer getId() {
         return this.id;
     }
 
+    /**
+     * 设置主键id
+     *
+     * @param id 主键id
+     */
     public void setId(Integer id) {
         this.id = id;
     }
 
     /**
-     * 单次parse之后的操作，暴露给子类完成
+     * 获取创建时间
      *
-     * @param t Entity
+     * @return create_time - 创建时间
      */
-    protected abstract void parseProcess(T t);
-
-    /**
-     * 复制VO到Entity
-     *
-     * @param tvo              VO类
-     * @param ignoreProperties 忽略的字段
-     * @return T
-     */
-    protected T parse(TVO tvo, String... ignoreProperties) {
-        T t = getT();
-        BeanUtils.copyProperties(tvo, t, ignoreProperties);
-        parseProcess(t);
-        return t;
+    public Date getCreateTime() {
+        return createTime;
     }
 
     /**
-     * 循环调用parse完成list的复制
+     * 设置创建时间
      *
-     * @param tvoList          vo的List集合
-     * @param ignoreProperties 忽略的字段
-     * @return List<T>
+     * @param createTime 创建时间
      */
-    protected List<T> parseList(List<TVO> tvoList, String... ignoreProperties) {
-        List<T> tList = new ArrayList<T>(tvoList.size());
-        for (TVO tvo : tvoList) {
-            T t = parse(tvo, ignoreProperties);
-            tList.add(t);
-        }
-        return tList;
+    public void setCreateTime(Date createTime) {
+        this.createTime = createTime;
+    }
+
+    /**
+     * 获取更新时间
+     *
+     * @return update_time - 更新时间
+     */
+    public Date getUpdateTime() {
+        return updateTime;
+    }
+
+    /**
+     * 设置更新时间
+     *
+     * @param updateTime 更新时间
+     */
+    public void setUpdateTime(Date updateTime) {
+        this.updateTime = updateTime;
+    }
+
+    /**
+     * 获取是否删除
+     *
+     * @return is_deleted - 是否删除
+     */
+    public Boolean getIsDeleted() {
+        return isDeleted;
+    }
+
+    /**
+     * 设置是否删除
+     *
+     * @param isDeleted 是否删除
+     */
+    public void setIsDeleted(Boolean isDeleted) {
+        this.isDeleted = isDeleted;
     }
 
     @Override
     public String toString() {
         return null;
     }
-
 }

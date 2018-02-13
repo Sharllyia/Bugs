@@ -14,4 +14,6 @@ public class BaseAjaxMessage {
 
     public static final String UNKNOWN_EXCEPTION = "未知错误，请联系管理员";
 
+    public static final String VALIDATE_FAULT = "数据校验失败";
+
 }

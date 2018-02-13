@@ -1,7 +1,7 @@
 package com.legend.base.web.controller;
 
 
-import com.legend.base.vo.UserVO;
+import com.legend.base.vo.BaseUserVO;
 
 /**
  * @author Administrator
@@ -13,7 +13,7 @@ public abstract class BaseController {
      *
      * @param user 当前用户
      */
-    protected abstract void setCurrentUser(UserVO user);
+    protected abstract void setCurrentUser(BaseUserVO user);
 
     /**
      * 得到当前用户，从session中取值

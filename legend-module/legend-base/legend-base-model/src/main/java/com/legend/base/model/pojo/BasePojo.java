@@ -1,5 +1,6 @@
 package com.legend.base.model.pojo;
 
+import java.io.Serializable;
 import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;
 
@@ -7,7 +8,7 @@ import java.lang.reflect.Type;
  * @author Administrator
  * @date 2018/1/9
  */
-public abstract class BasePojo<T> {
+public abstract class BasePojo<T> implements Serializable {
 
     /**
      * 继承BasePojo的子类都必须重写toString方法

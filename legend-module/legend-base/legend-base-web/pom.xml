@@ -12,6 +12,9 @@
     <artifactId>legend-base-web</artifactId>
     <packaging>jar</packaging>
 
+    <name>legend-base-web</name>
+    <description>web-font</description>
+
     <dependencies>
         <dependency>
             <groupId>com.legend</groupId>

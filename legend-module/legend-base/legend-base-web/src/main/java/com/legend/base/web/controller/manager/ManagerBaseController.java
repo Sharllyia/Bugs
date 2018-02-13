@@ -3,7 +3,7 @@ package com.legend.base.web.controller.manager;
 
 import com.legend.base.utils.HttpSessionUtils;
 import com.legend.base.web.controller.BaseController;
-import com.legend.base.vo.UserVO;
+import com.legend.base.vo.BaseUserVO;
 import org.springframework.stereotype.Component;
 
 /**
@@ -14,13 +14,13 @@ import org.springframework.stereotype.Component;
 public class ManagerBaseController extends BaseController {
 
     @Override
-    protected void setCurrentUser(UserVO currentUser) {
+    protected void setCurrentUser(BaseUserVO currentUser) {
         HttpSessionUtils.setSession("currentUser",currentUser);
     }
 
     @Override
-    protected UserVO getCurrentUser() {
-        return (UserVO) HttpSessionUtils.getSession("currentUser");
+    protected BaseUserVO getCurrentUser() {
+        return (BaseUserVO) HttpSessionUtils.getSession("currentUser");
     }
 
 }
