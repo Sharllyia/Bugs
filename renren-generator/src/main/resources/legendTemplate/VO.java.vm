@@ -1,5 +1,7 @@
 package ${package}.${moduleName}.entity;
 
+import com.legend.base.model.pojo.vo.BaseVO;
+import com.legend.base.model.pojo.bo.BaseBO;
 import java.io.Serializable;
 import java.util.Date;
 #if(${hasBigDecimal})
@@ -14,7 +16,7 @@ import java.math.BigDecimal;
  * @email ${email}
  * @date ${datetime}
  */
-public class ${className}Entity implements Serializable {
+public class ${className}VO extends BaseVO<${className}VO extends BaseVO,${className}BO extends BaseBO> {
 	private static final long serialVersionUID = 1L;
 	
 #foreach ($column in $columns)
@@ -36,4 +38,9 @@ public class ${className}Entity implements Serializable {
 		return $column.attrname;
 	}
 #end
+
+    @Override
+    protected void parseProcess(BaseEntity baseEntity) {
+
+    }
 }

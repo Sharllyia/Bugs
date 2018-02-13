@@ -5,73 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a8a39ea-6deb-420b-915c-66f48f338e7e" name="Default" comment="legend-module update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseBannerMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseBannerMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseGeographyMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseGeographyMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseLogRecordMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseLogRecordMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseLogTemplateMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseLogTemplateMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseOrderMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseOrderMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseParamMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseParamMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseThirdPartyMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseThirdPartyMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseTypeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseTypeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseUserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseUserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseBanner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseBannerExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseGeography.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseGeographyExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseLogRecord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseLogRecordExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseLogTemplate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseLogTemplateExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseOrderExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseParam.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseParamExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseThirdParty.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseThirdPartyExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseTypeExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseUser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseUserExample.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../legend-campus-cloud/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../legend-campus-cloud/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/pom.xml" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/legend-base-model.iml" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/legend-base-model.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/pom.xml" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/arribute/Key.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/arribute/Key.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/code/result/BaseAjaxCode.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/code/result/BaseAjaxCode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/code/result/base/BaseUserResultCode.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/code/result/base/BaseUserResultCode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/message/result/BaseAjaxMessage.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/message/result/BaseAjaxMessage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/message/result/base/BaseUserResultMessage.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/message/result/base/BaseUserResultMessage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/json/result/Ajax.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/json/result/Ajax.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/json/result/AjaxValidate.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/json/result/AjaxValidate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/json/result/Error.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/json/result/Error.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/pojo/BasePojo.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/pojo/BasePojo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/pojo/entity/BaseEntity.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/pojo/entity/BaseEntity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/pojo/vo/BaseVO.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/pojo/vo/BaseVO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/utils/HttpSessionUtils.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/utils/HttpSessionUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/legend-base-service.iml" afterPath="$PROJECT_DIR$/legend-base/legend-base-service/legend-base-service.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/src/main/java/com/legend/base/bo/BaseUserBO.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-service/src/main/java/com/legend/base/bo/BaseUserBO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/legend-base-web.iml" afterPath="$PROJECT_DIR$/legend-base/legend-base-web/legend-base-web.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/pom.xml" afterPath="$PROJECT_DIR$/legend-base/legend-base-web/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/vo/BaseUserVO.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/vo/BaseUserVO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/BaseController.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/BaseController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/manager/ManagerBaseController.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/manager/ManagerBaseController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/manager/admin/AdminUserController.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/manager/admin/AdminUserController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/website/AbstractUserController.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/website/AbstractUserController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/website/WebsiteBaseController.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/website/WebsiteBaseController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-dao/legend-campus-dao.iml" afterPath="$PROJECT_DIR$/legend-campus/legend-campus-dao/legend-campus-dao.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-model/legend-campus-model.iml" afterPath="$PROJECT_DIR$/legend-campus/legend-campus-model/legend-campus-model.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-service/legend-campus-service.iml" afterPath="$PROJECT_DIR$/legend-campus/legend-campus-service/legend-campus-service.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseBannerMapper.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseBannerMapper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../renren-generator/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/../renren-generator/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../renren-generator/src/main/java/io/renren/controller/SysGeneratorController.java" afterPath="$PROJECT_DIR$/../renren-generator/src/main/java/io/renren/controller/SysGeneratorController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../renren-generator/src/main/java/io/renren/entity/ColumnEntity.java" afterPath="$PROJECT_DIR$/../renren-generator/src/main/java/io/renren/entity/ColumnEntity.java" />
@@ -102,13 +38,24 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="AbstractUserController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/website/AbstractUserController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,8 +66,8 @@
       <file leaf-file-name="BaseBannerMapper.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseBannerMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="119">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -795,7 +742,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/legend-base/legend-base-dao" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
@@ -931,7 +878,7 @@
       <workItem from="1517481351507" duration="2051000" />
       <workItem from="1517535178999" duration="20039000" />
       <workItem from="1518418039089" duration="12387000" />
-      <workItem from="1518500503703" duration="81000" />
+      <workItem from="1518500503703" duration="850000" />
     </task>
     <task id="LOCAL-00001" summary="legend-module update">
       <created>1517483324543</created>
@@ -947,15 +894,31 @@
       <option name="project" value="LOCAL" />
       <updated>1518419593104</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="legend-module update">
+      <created>1518500632756</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1518500632756</updated>
+    </task>
+    <task id="LOCAL-00004" summary="legend-module update">
+      <created>1518501352229</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1518501352229</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43069000" />
+    <option name="totallyTimeSpent" value="43838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -970,7 +933,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46481878" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.336887" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1003,13 +966,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.14.RELEASE/spring-web-4.3.14.RELEASE.jar!/org/springframework/web/bind/annotation/RequestMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.14.RELEASE/spring-web-4.3.14.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -1051,6 +1007,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1117,6 +1074,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1139,6 +1097,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1146,6 +1105,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1160,6 +1122,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1167,6 +1130,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1666">
           <caret line="125" column="6" lean-forward="true" selection-start-line="125" selection-start-column="6" selection-end-line="125" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1249,6 +1213,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#531#538#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1256,6 +1224,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1282,6 +1251,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1362,7 +1332,7 @@
     <entry file="file://$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/website/AbstractUserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1377,10 +1347,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseBannerMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+          <folding>
+            <marker date="1517553628866" expanded="true" signature="2064:2096" ph="select count... base_banner" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseBannerMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

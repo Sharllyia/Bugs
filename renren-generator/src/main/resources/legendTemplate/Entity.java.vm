@@ -1,5 +1,8 @@
 package ${package}.${moduleName}.entity;
 
+import ${package}.${moduleName}.model.pojo.entity.BaseEntity;
+import ${package}.${moduleName}.model.pojo.vo.BaseVO;
+
 import java.io.Serializable;
 import java.util.Date;
 #if(${hasBigDecimal})
@@ -9,16 +12,21 @@ import java.math.BigDecimal;
 
 /**
  * ${comments}
- * 
+ *
  * @author ${author}
  * @email ${email}
  * @date ${datetime}
  */
-public class ${className}Entity implements Serializable {
+public class ${className} extends BaseEntity<${className}> {
 	private static final long serialVersionUID = 1L;
-	
+
 #foreach ($column in $columns)
-	//$column.comments
+	/**
+     * $column.comments
+     */
+    #if($column.isSynthesis)
+    @Column(name = "$column.columnName")
+    #end
 	private $column.attrType $column.attrname;
 #end
 
@@ -36,4 +44,5 @@ public class ${className}Entity implements Serializable {
 		return $column.attrname;
 	}
 #end
+
 }
