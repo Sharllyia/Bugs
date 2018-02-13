@@ -1,4 +1,4 @@
-package com.legend.base.model.consts.exception.code;
+package com.legend.base.model.contant.code.exception;
 
 /**
  * @author Administrator

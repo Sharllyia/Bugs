@@ -1,10 +1,10 @@
-package com.legend.base.model.consts.result.code;
+package com.legend.base.model.contant.code.result;
 
 /**
  * @author Administrator
  * @date 2018/1/9
  */
-public class BaseResultCode {
+public class BaseAjaxCode {
     /**
      * 请求成功
      */
@@ -17,4 +17,8 @@ public class BaseResultCode {
      * 请求失败
      */
     public static final int REQUEST_FAULT = 0;
+    /**
+     * 未知错误
+     */
+    public static final int UNKNOWN_EXCEPTION = 500;
 }
