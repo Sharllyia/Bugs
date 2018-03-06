@@ -1,12 +1,13 @@
 package com.legend.base.bo;
 
-import com.legend.base.model.pojo.bo.BaseBO;
+
+import com.legend.bo.AbstractBO;
 
 /**
  * @author Administrator
  * @date 2018/2/2
  */
-public class BaseUserBO extends BaseBO<BaseUserBO> {
+public class BaseUserBO extends AbstractBO<BaseUserBO> {
 
 
     @Override

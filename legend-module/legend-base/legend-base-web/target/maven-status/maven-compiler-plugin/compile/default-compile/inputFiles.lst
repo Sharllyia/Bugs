@@ -1,5 +1,2 @@
-D:\My\git\repositories\Bugs\legend-module\legend-base\legend-base-web\src\main\java\com\legend\base\web\controller\manager\admin\AdminUserController.java
-D:\My\git\repositories\Bugs\legend-module\legend-base\legend-base-web\src\main\java\com\legend\base\web\controller\manager\ManagerBaseController.java
-D:\My\git\repositories\Bugs\legend-module\legend-base\legend-base-web\src\main\java\com\legend\base\web\controller\website\WebsiteBaseController.java
-D:\My\git\repositories\Bugs\legend-module\legend-base\legend-base-web\src\main\java\com\legend\base\vo\UserVO.java
-D:\My\git\repositories\Bugs\legend-module\legend-base\legend-base-web\src\main\java\com\legend\base\web\controller\BaseController.java
+D:\My\git\repositories\Bugs\legend-module\legend-base\legend-base-web\src\main\java\com\legend\base\vo\base\BaseUserVO.java
+D:\My\git\repositories\Bugs\legend-module\legend-base\legend-base-web\src\main\java\com\legend\base\web\controller\website\BaseUserController.java

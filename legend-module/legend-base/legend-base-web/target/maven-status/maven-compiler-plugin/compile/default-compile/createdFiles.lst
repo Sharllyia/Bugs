@@ -1,5 +1,2 @@
-com\legend\base\web\controller\manager\ManagerBaseController.class
-com\legend\base\web\controller\website\WebsiteBaseController.class
-com\legend\base\vo\UserVO.class
-com\legend\base\web\controller\BaseController.class
-com\legend\base\web\controller\manager\admin\AdminUserController.class
+com\legend\base\vo\base\BaseUserVO.class
+com\legend\base\web\controller\website\BaseUserController.class

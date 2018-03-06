@@ -3,14 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/legend-base/legend-base.iml" filepath="$PROJECT_DIR$/legend-base/legend-base.iml" />
-      <module fileurl="file://$PROJECT_DIR$/legend-base/legend-base-dao/legend-base-dao.iml" filepath="$PROJECT_DIR$/legend-base/legend-base-dao/legend-base-dao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/legend-base/legend-base-model/legend-base-model.iml" filepath="$PROJECT_DIR$/legend-base/legend-base-model/legend-base-model.iml" />
-      <module fileurl="file://$PROJECT_DIR$/legend-base/legend-base-service/legend-base-service.iml" filepath="$PROJECT_DIR$/legend-base/legend-base-service/legend-base-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/legend-base/legend-base-web/legend-base-web.iml" filepath="$PROJECT_DIR$/legend-base/legend-base-web/legend-base-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/legend-campus/legend-campus.iml" filepath="$PROJECT_DIR$/legend-campus/legend-campus.iml" />
-      <module fileurl="file://$PROJECT_DIR$/legend-campus/legend-campus-dao/legend-campus-dao.iml" filepath="$PROJECT_DIR$/legend-campus/legend-campus-dao/legend-campus-dao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/legend-campus/legend-campus-model/legend-campus-model.iml" filepath="$PROJECT_DIR$/legend-campus/legend-campus-model/legend-campus-model.iml" />
-      <module fileurl="file://$PROJECT_DIR$/legend-campus/legend-campus-service/legend-campus-service.iml" filepath="$PROJECT_DIR$/legend-campus/legend-campus-service/legend-campus-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legend-core/legend-core.iml" filepath="$PROJECT_DIR$/legend-core/legend-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legend-core/legend-core-dao/legend-core-dao.iml" filepath="$PROJECT_DIR$/legend-core/legend-core-dao/legend-core-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legend-core/legend-core-facade/legend-core-facade.iml" filepath="$PROJECT_DIR$/legend-core/legend-core-facade/legend-core-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legend-core/legend-core-model/legend-core-model.iml" filepath="$PROJECT_DIR$/legend-core/legend-core-model/legend-core-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legend-core/legend-core-service/legend-core-service.iml" filepath="$PROJECT_DIR$/legend-core/legend-core-service/legend-core-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legend-core/legend-core-web/legend-core-web.iml" filepath="$PROJECT_DIR$/legend-core/legend-core-web/legend-core-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/legend-module.iml" filepath="$PROJECT_DIR$/legend-module.iml" />
     </modules>
   </component>
