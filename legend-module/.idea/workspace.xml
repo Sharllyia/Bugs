@@ -44,186 +44,321 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../legend-campus-cloud/legend-campus-cloud-web/src/main/java/com/legend/web/config/shiro/ShiroConfiguration.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../legend-campus-cloud/legend-campus-cloud-web/src/main/java/com/legend/web/config/shiro/ShiroRealm.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../legend-campus-cloud/legend-campus-cloud-web/src/main/resources/templates/index.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_3_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/message/exception/validate/ValidateExceptionMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/exception/validate/ValidateException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-service/src/main/java/com/legend/base/service/BaseUserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-service/src/main/java/com/legend/base/service/impl/BaseUserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-service/src/test/java/com/legend/base/service/BaseUserServiceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/vo/base/BaseUserVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/website/BaseUserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/legend-core-dao.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/legend-core-model.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/legend-core-service.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-dao/legend-dao.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-dao/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/annotation/FieldIsDeleted.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/dao/mapper/LegendMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/dao/mapper/external/SelectGroupMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/dao/mapper/external/UpdateDeletedMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/dao/mapper/user/UserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/entity/AbstractEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/entity/user/AbstractUser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/provider/SelectGroupProvider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/provider/UpdateDeletedProvider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-model/legend-model.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-model/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/Regex/Regexp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/arribute/Key.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/code/exception/ExceptionCode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/code/result/AjaxCode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/code/result/user/UserResultCode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/message/exception/ExceptionMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/message/exception/validate/ValidateExceptionMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/message/log/LogMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/message/result/AjaxMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/message/result/user/UserResultMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/group/user/AccountLoginGroup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/group/user/PhoneLoginGroup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/group/user/RegisterGroup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/group/user/UpdatePasswordGroup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-service/legend-service.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-service/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-service/src/main/java/com/legend/bo/user/AbstractUserBO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-service/src/main/java/com/legend/service/Service.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-service/src/main/java/com/legend/service/impl/AbstractService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-service/src/main/java/com/legend/service/user/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-service/src/main/java/com/legend/service/user/impl/UserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-service/src/main/resources/config/mybatis-generatorConfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-service/src/main/resources/properties/mybatis-generatorConfig.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-web/legend-web.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-web/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend-web/src/main/java/com/legend/vo/user/AbstractUserVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/legend.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend/pom.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/BaseMapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseBannerMapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseBannerMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseGeographyMapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseGeographyMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseLogRecordMapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseLogRecordMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseLogTemplateMapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseLogTemplateMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseOrderMapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseOrderMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseParamMapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseParamMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseThirdPartyMapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseThirdPartyMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseTypeMapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseTypeMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseUserMapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/dao/mapper/BaseUserMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseBanner.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseBannerExample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseGeography.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseGeographyExample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseLogRecord.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseLogRecordExample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseLogTemplate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseLogTemplateExample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseOrder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseOrderExample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseParam.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseParamExample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseThirdParty.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseThirdPartyExample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseTypeExample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseUser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/target/classes/com/legend/base/dao/BaseMapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/target/classes/com/legend/dao/mappers/BaseBannerMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/target/classes/com/legend/dao/mappers/BaseGeographyMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/target/classes/com/legend/dao/mappers/BaseLogRecordMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/target/classes/com/legend/dao/mappers/BaseLogTemplateMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/target/classes/com/legend/dao/mappers/BaseOrderMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/target/classes/com/legend/dao/mappers/BaseParamMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/target/classes/com/legend/dao/mappers/BaseTypeMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/group/Base.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/pojo/dto/BaseDTO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/pojo/entity/BaseEntity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/classes/com/legend/base/model/consts/exception/code/BaseExceptionCode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/classes/com/legend/base/model/consts/exception/message/BaseExceptionMessage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/classes/com/legend/base/model/consts/result/code/BaseResultCode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/classes/com/legend/base/model/consts/result/message/BaseResultMessage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/classes/com/legend/base/model/json/AjaxResult.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/classes/com/legend/base/model/json/result/AjaxError.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/classes/com/legend/base/model/json/result/AjaxSuccess.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/classes/com/legend/base/model/pojo/BasePojo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/classes/com/legend/base/model/pojo/bo/BaseBO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/classes/com/legend/base/model/pojo/dto/BaseDTO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/classes/com/legend/base/model/pojo/entity/BaseEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/classes/com/legend/base/model/pojo/vo/BaseVO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/classes/com/legend/base/utils/CookieUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/classes/com/legend/base/utils/HttpSessionUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/classes/com/legend/base/utils/PropertyUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/vo/BaseUserVO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/classes/com/legend/base/vo/UserVO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/classes/com/legend/base/web/controller/BaseController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/classes/com/legend/base/web/controller/manager/ManagerBaseController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/classes/com/legend/base/web/controller/manager/admin/AdminUserController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/classes/com/legend/base/web/controller/website/WebsiteBaseController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT/WEB-INF/classes/com/legend/base/vo/UserVO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT/WEB-INF/classes/com/legend/base/web/controller/BaseController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT/WEB-INF/classes/com/legend/base/web/controller/manager/ManagerBaseController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT/WEB-INF/classes/com/legend/base/web/controller/manager/admin/AdminUserController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT/WEB-INF/classes/com/legend/base/web/controller/website/WebsiteBaseController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT/WEB-INF/lib/javax.persistence-api-2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT/WEB-INF/lib/legend-base-dao-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT/WEB-INF/lib/legend-base-model-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT/WEB-INF/lib/legend-base-service-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.14.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.14.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.3.14.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.3.14.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.14.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.3.14.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-dao/legend-campus-dao.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-dao/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-dao/src/main/resources/config/mybatis-generatorConfig.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-dao/src/main/resources/properties/mybatis-generatorConfig.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-dao/target/classes/config/mybatis-generatorConfig.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-dao/target/classes/properties/mybatis-generatorConfig.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-dao/target/legend-campus-dao-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-dao/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-model/legend-campus-model.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-model/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-model/target/legend-campus-model-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-model/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-model/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-service/legend-campus-service.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-service/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-service/target/legend-campus-service-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-service/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/legend-campus.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-campus/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/group/base/AccountLoginGroup.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/group/base/RegisterGroup.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/group/base/UpdatePasswordGroup.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/target/legend-module-base-dao.jar" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/target/legend-module-base-dao.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/classes/com/legend/base/model/exception/BaseException.class" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/target/classes/com/legend/base/model/exception/BaseException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/legend-base-model-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/target/legend-base-model-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/target/legend-base-service-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/legend-base/legend-base-service/target/legend-base-service-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/legend_core_web_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/legend_core_web_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_45.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_28.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_28.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_28.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_27_incubating.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_7_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_session_spring_session_core_2_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_session_spring_session_jdbc_2_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_3_5_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/LegendCoreDaoApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/dao/mapper/core/LegendMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/dao/mapper/core/external/SelectGroupMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/dao/mapper/core/external/UpdateDeletedMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/dao/mapper/sys/SysPermissionMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/dao/mapper/sys/SysRoleMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/dao/mapper/sys/SysRoleRelPermissionMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/dao/mapper/sys/SysUserMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/dao/mapper/sys/SysUserRelRoleMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/dao/provider/SelectGroupProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/dao/provider/UpdateDeletedProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/entity/AbstractEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/entity/sys/SysPermission.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/entity/sys/SysPermissionExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/entity/sys/SysRole.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/entity/sys/SysRoleExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/entity/sys/SysRoleRelPermission.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/entity/sys/SysRoleRelPermissionExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/entity/sys/SysUser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/entity/sys/SysUserExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/entity/sys/SysUserRelRole.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/entity/sys/SysUserRelRoleExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/resources/config/mybatis-generatorConfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/resources/mapper/sys/SysPermissionMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/resources/mapper/sys/SysRoleMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/resources/mapper/sys/SysRoleRelPermissionMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/resources/mapper/sys/SysUserMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/resources/mapper/sys/SysUserRelRoleMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/main/resources/properties/mybatis-generatorConfig.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-dao/src/test/java/com/legend/module/core/LegendCoreDaoApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-facade/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-facade/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-facade/src/main/java/com/legend/module/core/LegendCoreFacadeApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-facade/src/main/java/com/legend/module/core/facade/sys/impl/UserDetailsServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-facade/src/main/java/com/legend/module/core/filter/FilterInvocationSecurityMetadataSourceService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-facade/src/main/java/com/legend/module/core/filter/FilterSecurityInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-facade/src/main/java/com/legend/module/core/filter/impl/FilterFilterSecurityInterceptorImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-facade/src/main/java/com/legend/module/core/filter/impl/FilterInvocationSecurityMetadataSourceServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-facade/src/main/java/com/legend/module/core/manager/AccessDecisionManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-facade/src/main/java/com/legend/module/core/manager/impl/AccessDecisionManagerImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-facade/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-facade/src/test/java/com/legend/module/core/LegendCoreFacadeApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/LegendCoreModelApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/annotation/FieldIsDeleted.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/contant/arribute/Key.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/contant/code/exception/ExceptionCode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/contant/code/result/AjaxCode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/contant/code/result/user/UserResultCode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/contant/message/exception/ExceptionMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/contant/message/exception/validate/ValidateExceptionMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/contant/message/log/LogMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/contant/message/result/AjaxMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/contant/message/result/user/UserResultMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/contant/regex/Regexp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/group/user/AccountLoginGroup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/group/user/PhoneLoginGroup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/group/user/UpdatePasswordGroup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/json/result/Ajax.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/json/result/AjaxError.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/json/result/AjaxValidate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/pojo/AbstractPojo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/test/java/com/legend/module/core/LegendCoreModelApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/src/main/java/com/legend/module/core/LegendCoreServiceApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/src/main/java/com/legend/module/core/bo/AbstractBO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/src/main/java/com/legend/module/core/service/core/LegendService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/src/main/java/com/legend/module/core/service/core/impl/AbstractLegendService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/src/main/java/com/legend/module/core/service/sys/SysPermissionService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/src/main/java/com/legend/module/core/service/sys/SysRoleRelPermissionService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/src/main/java/com/legend/module/core/service/sys/SysRoleService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/src/main/java/com/legend/module/core/service/sys/SysUserRelRoleService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/src/main/java/com/legend/module/core/service/sys/SysUserService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/src/main/java/com/legend/module/core/service/sys/impl/SysPermissionServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/src/main/java/com/legend/module/core/service/sys/impl/SysRoleRelPermissionServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/src/main/java/com/legend/module/core/service/sys/impl/SysRoleServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/src/main/java/com/legend/module/core/service/sys/impl/SysUserRelRoleServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/src/main/java/com/legend/module/core/service/sys/impl/SysUserServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-service/src/test/java/com/legend/module/core/LegendCoreServiceApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-web/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-web/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-web/src/main/java/com/legend/module/core/LegendCoreWebApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-web/src/main/java/com/legend/module/core/web/config/WebSecurityConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-web/src/main/java/com/legend/module/core/web/controller/AbstractController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-web/src/main/java/com/legend/module/core/web/controller/manager/AbstractManagerController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-web/src/main/java/com/legend/module/core/web/controller/website/AbstractWebsiteController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-web/src/main/java/com/legend/module/core/web/vo/core/AbstractVO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-web/src/main/java/com/legend/module/core/web/vo/core/UserVO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-web/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-web/src/main/resources/static/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core-web/src/test/java/com/legend/module/core/LegendCoreWebApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/legend-core.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/legend-core/pom.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_14_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_14_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_14_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_14_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_14_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_14_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_3_3_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/legend-base-dao.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/resources/config/mybatis-generatorConfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/resources/properties/mybatis-generatorConfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/target/legend-module-base-dao.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/legend-base-model.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/arribute/Key.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/code/exception/BaseExceptionCode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/code/result/BaseAjaxCode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/code/result/base/BaseUserResultCode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/message/exception/BaseExceptionMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/message/exception/validate/ValidateExceptionMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/message/log/BaseLogMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/message/result/BaseAjaxMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/message/result/base/BaseUserResultMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/exception/BaseException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/exception/validate/ValidateException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/group/base/PasswordGroup.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/classes/com/legend/base/model/exception/BaseException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/legend-base-model-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/legend-base-service.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/src/main/java/com/legend/base/bo/BaseUserBO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/src/main/java/com/legend/base/service/BaseUserService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/src/main/java/com/legend/base/service/impl/BaseUserServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/src/test/java/com/legend/base/service/BaseUserServiceTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/target/legend-base-service-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/legend-base-web.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/vo/base/BaseUserVO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/website/BaseUserController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/legend-base-web-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-dao/legend-dao.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-dao/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/annotation/FieldIsDeleted.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/dao/mapper/LegendMapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/dao/mapper/external/SelectGroupMapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/dao/mapper/external/UpdateDeletedMapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/dao/mapper/user/UserMapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/entity/AbstractEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/entity/user/AbstractUser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/entity/user/AbstractUserExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/provider/SelectGroupProvider.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/provider/UpdateDeletedProvider.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/legend-model.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/Regex/Regexp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/arribute/Key.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/code/exception/ExceptionCode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/code/result/AjaxCode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/code/result/user/UserResultCode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/message/exception/ExceptionMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/message/exception/validate/ValidateExceptionMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/message/log/LogMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/message/result/AjaxMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/contant/message/result/user/UserResultMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/group/base/PhoneLoginGroup.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/group/user/AccountLoginGroup.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/group/user/PhoneLoginGroup.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/group/user/RegisterGroup.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/group/user/UpdatePasswordGroup.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/json/result/Ajax.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/json/result/AjaxValidate.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/json/result/Error.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/pojo/AbstractPojo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/utils/CookieUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/utils/HttpSessionUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/utils/PropertyUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-service/legend-service.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-service/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-service/src/main/java/com/legend/bo/AbstractBO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-service/src/main/java/com/legend/bo/user/AbstractUserBO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-service/src/main/java/com/legend/service/Service.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-service/src/main/java/com/legend/service/impl/AbstractService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-service/src/main/java/com/legend/service/user/UserService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-service/src/main/java/com/legend/service/user/impl/UserServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-service/src/main/resources/config/mybatis-generatorConfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-service/src/main/resources/properties/mybatis-generatorConfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-web/legend-web.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-web/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-web/src/main/java/com/legend/vo/AbstractVO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-web/src/main/java/com/legend/vo/user/AbstractUserVO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-web/src/main/java/com/legend/web/controller/AbstractController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-web/src/main/java/com/legend/web/controller/manager/AbstractManagerController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-web/src/main/java/com/legend/web/controller/manager/admin/AdminUserController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-web/src/main/java/com/legend/web/controller/website/AbstractWebsiteController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend-web/src/main/java/com/legend/web/controller/website/user/AbstractUserController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/legend.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/legend/pom.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../legend-campus-cloud/.idea/artifacts/legend_campus_cloud_web_war_exploded.xml" afterPath="$PROJECT_DIR$/../legend-campus-cloud/.idea/artifacts/legend_campus_cloud_web_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../legend-campus-cloud/.idea/misc.xml" afterPath="$PROJECT_DIR$/../legend-campus-cloud/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../legend-campus-cloud/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../legend-campus-cloud/.idea/workspace.xml" />
@@ -233,57 +368,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../legend-campus-cloud/legend-campus-cloud-web/src/main/java/com/legend/web/controller/IndexController.java" afterPath="$PROJECT_DIR$/../legend-campus-cloud/legend-campus-cloud-web/src/main/java/com/legend/web/controller/IndexController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../legend-campus-cloud/legend-campus-cloud-web/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/../legend-campus-cloud/legend-campus-cloud-web/src/main/resources/application.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../legend-campus-cloud/legend-campus-cloud-web/src/test/java/com/legend/web/WebApplicationTests.java" afterPath="$PROJECT_DIR$/../legend-campus-cloud/legend-campus-cloud-web/src/test/java/com/legend/web/WebApplicationTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/legend-base-dao.iml" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/legend-base-dao.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/pom.xml" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/resources/config/mybatis-generatorConfig.xml" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/resources/config/mybatis-generatorConfig.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/resources/properties/mybatis-generatorConfig.properties" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/resources/properties/mybatis-generatorConfig.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/legend-base/legend-base-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/legend-base-model.iml" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/legend-base-model.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/pom.xml" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/arribute/Key.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/arribute/Key.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/code/result/BaseAjaxCode.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/code/result/BaseAjaxCode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/message/result/BaseAjaxMessage.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/message/result/BaseAjaxMessage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/message/result/base/BaseUserResultMessage.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/contant/message/result/base/BaseUserResultMessage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/legend-base/legend-base-model/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/legend-base-service.iml" afterPath="$PROJECT_DIR$/legend-base/legend-base-service/legend-base-service.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/pom.xml" afterPath="$PROJECT_DIR$/legend-base/legend-base-service/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/src/main/java/com/legend/base/bo/BaseUserBO.java" afterPath="$PROJECT_DIR$/legend-base/legend-base-service/src/main/java/com/legend/base/bo/BaseUserBO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/legend-base/legend-base-service/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/legend-base/legend-base-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/legend-base/legend-base-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/legend-base-web.iml" afterPath="$PROJECT_DIR$/legend-base/legend-base-web/legend-base-web.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/pom.xml" afterPath="$PROJECT_DIR$/legend-base/legend-base-web/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/legend-base/legend-base-web/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/legend-base/legend-base-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/legend-base/legend-base-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/legend-base.iml" afterPath="$PROJECT_DIR$/legend-base/legend-base.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-base/pom.xml" afterPath="$PROJECT_DIR$/legend-base/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legend-module.iml" afterPath="$PROJECT_DIR$/legend-module.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/legend-base/legend-base-dao/src/main/java/com/legend/base/entity/BaseUserExample.java" afterPath="$PROJECT_DIR$/legend/legend-dao/src/main/java/com/legend/entity/user/AbstractUserExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/json/result/Ajax.java" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/json/result/Ajax.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/json/result/AjaxValidate.java" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/json/result/AjaxValidate.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/json/result/Error.java" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/json/result/Error.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/pojo/BasePojo.java" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/model/pojo/AbstractPojo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/pojo/bo/BaseBO.java" afterPath="$PROJECT_DIR$/legend/legend-service/src/main/java/com/legend/bo/AbstractBO.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/pojo/vo/BaseVO.java" afterPath="$PROJECT_DIR$/legend/legend-web/src/main/java/com/legend/vo/AbstractVO.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/utils/CookieUtils.java" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/utils/CookieUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/utils/HttpSessionUtils.java" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/utils/HttpSessionUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/utils/PropertyUtils.java" afterPath="$PROJECT_DIR$/legend/legend-model/src/main/java/com/legend/utils/PropertyUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/BaseController.java" afterPath="$PROJECT_DIR$/legend/legend-web/src/main/java/com/legend/web/controller/AbstractController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/manager/ManagerBaseController.java" afterPath="$PROJECT_DIR$/legend/legend-web/src/main/java/com/legend/web/controller/manager/AbstractManagerController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/manager/admin/AdminUserController.java" afterPath="$PROJECT_DIR$/legend/legend-web/src/main/java/com/legend/web/controller/manager/admin/AdminUserController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/website/AbstractUserController.java" afterPath="$PROJECT_DIR$/legend/legend-web/src/main/java/com/legend/web/controller/website/user/AbstractUserController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/legend-base/legend-base-web/src/main/java/com/legend/base/web/controller/website/WebsiteBaseController.java" afterPath="$PROJECT_DIR$/legend/legend-web/src/main/java/com/legend/web/controller/website/AbstractWebsiteController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/legend-base/legend-base-model/src/main/java/com/legend/base/model/group/base/RegisterGroup.java" afterPath="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/group/user/RegisterGroup.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -326,8 +412,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/legend-core/legend-core-dao/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="77" column="68" lean-forward="false" selection-start-line="77" selection-start-column="68" selection-end-line="77" selection-end-column="68" />
+            <state relative-caret-position="102">
+              <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
               <folding>
                 <element signature="n#plugin#0;n#plugins#0;n#build#0;n#project#0;n#!!top" expanded="false" />
                 <element signature="e#3855#7770#0" expanded="false" />
@@ -479,6 +565,7 @@
     <option name="width" value="1245" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -494,8 +581,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -507,8 +592,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -929,7 +1016,7 @@
       <workItem from="1520211736723" duration="9621000" />
       <workItem from="1520325797883" duration="7756000" />
       <workItem from="1520336186725" duration="27000" />
-      <workItem from="1520336331057" duration="19000" />
+      <workItem from="1520337846925" duration="156000" />
     </task>
     <servers />
   </component>
@@ -966,7 +1053,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88310000" />
+    <option name="totallyTimeSpent" value="88447000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -994,7 +1081,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36140725" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23400854" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1021,6 +1108,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新的module" />
+    <option name="LAST_COMMIT_MESSAGE" value="新的module" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1242,6 +1333,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1316,6 +1408,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1394,8 +1487,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/legend-core/legend-core-dao/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="77" column="68" lean-forward="false" selection-start-line="77" selection-start-column="68" selection-end-line="77" selection-end-column="68" />
+        <state relative-caret-position="102">
+          <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
           <folding>
             <element signature="n#plugin#0;n#plugins#0;n#build#0;n#project#0;n#!!top" expanded="false" />
             <element signature="e#3855#7770#0" expanded="false" />
