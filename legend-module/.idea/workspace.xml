@@ -166,7 +166,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LegendCoreDaoApplicationTests.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LegendCoreDaoApplicationTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/legend-core/legend-core-dao/src/test/java/com/legend/module/core/LegendCoreDaoApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -174,51 +174,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="85">
-                <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/legend-core/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="221">
-                <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-                <folding>
-                  <marker date="1520401468417" expanded="true" signature="128:3326" ph="..." />
-                  <marker date="1520401468417" expanded="true" signature="185:324" ph="..." />
-                  <marker date="1520401468417" expanded="true" signature="345:486" ph="..." />
-                  <marker date="1520401468417" expanded="true" signature="507:653" ph="..." />
-                  <marker date="1520401468417" expanded="true" signature="674:814" ph="..." />
-                  <marker date="1520401468417" expanded="true" signature="835:979" ph="..." />
-                  <marker date="1520401468417" expanded="true" signature="1000:1146" ph="..." />
-                  <marker date="1520401468417" expanded="true" signature="1167:1306" ph="..." />
-                  <marker date="1520401468417" expanded="true" signature="1327:1506" ph="..." />
-                  <marker date="1520401468417" expanded="true" signature="1527:1665" ph="..." />
-                  <marker date="1520401468417" expanded="true" signature="1691:1843" ph="..." />
-                  <marker date="1520401468417" expanded="true" signature="1864:2053" ph="..." />
-                  <marker date="1520401468417" expanded="true" signature="2074:2227" ph="..." />
-                  <marker date="1520401468417" expanded="true" signature="2248:2420" ph="..." />
-                  <marker date="1520401468417" expanded="true" signature="2441:2613" ph="..." />
-                  <marker date="1520401468417" expanded="true" signature="2708:2873" ph="..." />
-                  <marker date="1520401468417" expanded="true" signature="2899:3079" ph="..." />
-                  <marker date="1520401468417" expanded="true" signature="3100:3265" ph="..." />
-                </folding>
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -310,7 +265,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/legend-core/legend-core-model/src/main/java/com/legend/module/core/model/group/user/UpdatePasswordGroup.java" />
         <option value="$PROJECT_DIR$/legend-core/legend-core-web/src/main/java/com/legend/module/core/web/VO/core/UserVO.java" />
         <option value="$PROJECT_DIR$/legend-core/legend-core-web/src/main/java/com/legend/module/core/web/controller/AbstractController.java" />
         <option value="$PROJECT_DIR$/legend-core/legend-core-web/src/main/java/com/legend/module/core/web/controller/website/AbstractWebsiteController.java" />
@@ -359,8 +313,9 @@
         <option value="$USER_HOME$/Desktop/druid-master/druid-spring-boot-starter/README.md" />
         <option value="$PROJECT_DIR$/legend-core/legend-core-dao/pom.xml" />
         <option value="$PROJECT_DIR$/legend-core/pom.xml" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/legend-core/README.md" />
+        <option value="$PROJECT_DIR$/legend-base/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -1204,7 +1159,7 @@
       <workItem from="1520337846925" duration="1341000" />
       <workItem from="1520387908708" duration="582000" />
       <workItem from="1520390530483" duration="1707000" />
-      <workItem from="1520392289032" duration="7453000" />
+      <workItem from="1520392289032" duration="7611000" />
     </task>
     <task id="LOCAL-00001" summary="新的module">
       <created>1520338034057</created>
@@ -1263,7 +1218,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99374000" />
+    <option name="totallyTimeSpent" value="99532000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1341,13 +1296,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/legend-core/legend-core-dao/src/main/java/com/legend/module/core/entity/AbstractEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/legend-core/legend-core-web/src/main/java/com/legend/module/core/web/vo/core/AbstractVO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1989">
@@ -1687,27 +1635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/legend-core/legend-core-dao/src/test/java/com/legend/module/core/LegendCoreDaoApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="85">
-            <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/druid-master/druid-spring-boot-starter/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1756,6 +1683,38 @@
             </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/legend-base/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="91" lean-forward="false" selection-start-line="5" selection-start-column="91" selection-end-line="5" selection-end-column="91" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/legend-core/legend-core-dao/src/test/java/com/legend/module/core/LegendCoreDaoApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
