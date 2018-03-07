@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/legend-base/legend-base.iml" filepath="$PROJECT_DIR$/legend-base/legend-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legend-base/legend-base-web/legend-base-web.iml" filepath="$PROJECT_DIR$/legend-base/legend-base-web/legend-base-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/legend-core/legend-core.iml" filepath="$PROJECT_DIR$/legend-core/legend-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/legend-core/legend-core-dao/legend-core-dao.iml" filepath="$PROJECT_DIR$/legend-core/legend-core-dao/legend-core-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/legend-core/legend-core-facade/legend-core-facade.iml" filepath="$PROJECT_DIR$/legend-core/legend-core-facade/legend-core-facade.iml" />

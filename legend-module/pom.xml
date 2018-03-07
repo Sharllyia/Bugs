@@ -13,6 +13,7 @@
 
     <modules>
         <module>legend-core</module>
+        <module>legend-base</module>
     </modules>
 
 </project>

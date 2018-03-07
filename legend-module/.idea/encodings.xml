@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/legend-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/legend-base/legend-base-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/legend-core" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/legend-core/legend-core-dao" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/legend-core/legend-core-facade" charset="UTF-8" />

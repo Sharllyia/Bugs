@@ -57,9 +57,37 @@
           <element id="library" level="project" name="Maven: com.vaadin.external.google:android-json:0.0.20131108.vaadin1" />
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.13.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-test:4.3.13.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.security:spring-security-core:4.2.3.RELEASE" />
           <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
           <element id="library" level="project" name="Maven: com.alibaba:druid:1.0.28" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-all:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-lang:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-config-core:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-config-ogdl:1.4.0" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.9.3" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.2" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-crypto-core:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-crypto-hash:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-crypto-cipher:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-event:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-aspectj:1.4.0" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjrt:1.8.13" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.13" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-guice:1.4.0" />
+          <element id="library" level="project" name="Maven: com.google.inject:guice:3.0" />
+          <element id="library" level="project" name="Maven: javax.inject:javax.inject:1" />
+          <element id="library" level="project" name="Maven: com.google.inject.extensions:guice-multibindings:3.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-hazelcast:1.4.0" />
+          <element id="library" level="project" name="Maven: com.hazelcast:hazelcast:3.7.8" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-quartz:1.4.0" />
+          <element id="library" level="project" name="Maven: org.opensymphony.quartz:quartz:1.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-core:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-cache:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-web:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-ehcache:1.4.0" />
+          <element id="library" level="project" name="Maven: net.sf.ehcache:ehcache-core:2.6.11" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-spring:1.4.0" />
           <element id="archive" name="legend-campus-cloud-facade-1.0-SNAPSHOT.jar">
             <element id="module-output" name="legend-campus-cloud-facade" />
           </element>
@@ -68,10 +96,19 @@
           <element id="library" level="project" name="Maven: com.legend:legend-campus-model:1.0-SNAPSHOT" />
           <element id="library" level="project" name="Maven: com.legend:legend-base-web:1.0-SNAPSHOT" />
           <element id="library" level="project" name="Maven: com.legend:legend-base-service:1.0-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.legend:legend-service:1.0-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.legend:legend-dao:1.0-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: javax.persistence:javax.persistence-api:2.2" />
+          <element id="library" level="project" name="Maven: tk.mybatis:mapper:3.3.9" />
+          <element id="library" level="project" name="Maven: javax.persistence:persistence-api:1.0" />
+          <element id="library" level="project" name="Maven: com.legend:legend-model:1.0-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.github.pagehelper:pagehelper:4.0.1" />
+          <element id="library" level="project" name="Maven: com.github.jsqlparser:jsqlparser:0.9.1" />
           <element id="library" level="project" name="Maven: com.legend:legend-base-dao:1.0-SNAPSHOT" />
           <element id="library" level="project" name="Maven: com.legend:legend-base-model:1.0-SNAPSHOT" />
-          <element id="library" level="project" name="Maven: javax.persistence:javax.persistence-api:2.2" />
           <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
+          <element id="library" level="project" name="Maven: com.legend:legend-web:1.0-SNAPSHOT" />
         </element>
       </element>
       <element id="directory" name="META-INF">
