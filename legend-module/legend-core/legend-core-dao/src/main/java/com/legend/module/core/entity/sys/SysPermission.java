@@ -241,4 +241,20 @@ public class SysPermission extends AbstractEntity {
     public void setIsDeleted(Boolean isDeleted) {
         this.isDeleted = isDeleted;
     }
+
+    @Override
+    public String toString() {
+        return "SysPermission{" +
+                "id=" + id +
+                ", permissionName='" + permissionName + '\'' +
+                ", sign='" + sign + '\'' +
+                ", description='" + description + '\'' +
+                ", url='" + url + '\'' +
+                ", parentId=" + parentId +
+                ", sort=" + sort +
+                ", createTime=" + createTime +
+                ", updateTime=" + updateTime +
+                ", isDeleted=" + isDeleted +
+                '}';
+    }
 }

@@ -17,20 +17,22 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.legend.module</groupId>
-            <artifactId>legend-core-model</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <groupId>org.springframework.session</groupId>
+            <artifactId>spring-session-jdbc</artifactId>
         </dependency>
-
         <!-- external dependency start -->
-
+        <dependency>
+            <groupId>tk.mybatis</groupId>
+            <artifactId>mapper-spring-boot-starter</artifactId>
+            <version>1.2.3</version>
+        </dependency>
         <!-- external dependency end -->
     </dependencies>
 
     <build>
         <plugins>
             <!-- maven-resources-plugin插件 -->
-            <plugin>
+            <!--<plugin>
                 <artifactId>maven-resources-plugin</artifactId>
                 <version>3.0.1</version>
 
@@ -50,17 +52,10 @@
                         </goals>
                     </execution>
                 </executions>
-            </plugin>
+            </plugin>-->
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-                <dependencies>
-                    <dependency>
-                        <groupId>org.springframework</groupId>
-                        <artifactId>springloaded</artifactId>
-                        <version>1.2.8.RELEASE</version>
-                    </dependency>
-                </dependencies>
             </plugin>
             <plugin>
                 <groupId>org.mybatis.generator</groupId>
@@ -76,6 +71,7 @@
                     <dependency>
                         <groupId>mysql</groupId>
                         <artifactId>mysql-connector-java</artifactId>
+                        <version>${mysql.version}</version>
                         <scope>runtime</scope>
                     </dependency>
                     <dependency>
